@@ -1,9 +1,10 @@
-
 .idea/.name
 .idea/misc.xml
 .idea/modules.xml
 .idea/workspace.xml
-requirementx.txt
-
-
+__pycache__/
+scenarios/__pycache__/
+tests/__pycache__/
+utils/__pycache__/
+venv/
 /screenshot
